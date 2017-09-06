@@ -1,0 +1,27 @@
+
+  choose food items
+  
+   if {
+   
+       System.out.println("I am always taking veg only");
+	     
+		 "veg fried rice"
+		 "tomatomrice"
+		 "lemon rice"
+		 "jeera rice"
+		 
+		 } else {
+		 
+		   System.out.println("I am taking both Veg/Non-Veg items");
+		   
+		     "Chicken Fry"
+			 "Fish Fry"
+			 "Mutton Curry"
+			 "egg curry"
+			 
+			 } else-if {
+			 
+			    "today don't have items".
+			 
+		 
+		

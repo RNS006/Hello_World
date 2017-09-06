@@ -1,0 +1,17 @@
+
+
+ you have chhose food items
+ 
+   else{
+       "Tomoto Rice"
+	   "Biryani"
+	   "Lemon Rice"
+	   "GobiManhuria"
+	   }
+	   
+	   else-if {
+	   
+	      "don't have food items"
+		  
+		  }
+ 
