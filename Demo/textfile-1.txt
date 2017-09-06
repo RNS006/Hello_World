@@ -1,0 +1,19 @@
+
+<html>
+<head>
+<title> This is the list of fruits </title>
+</head>
+    
+	<body>
+	    
+		<ul>
+		<li>Apple</li>
+		<li>Banana</li>
+		<li>Guava</li>
+		<li>JackFruit</li>
+		
+		</ul>
+		
+		</body>
+		
+		</html>
