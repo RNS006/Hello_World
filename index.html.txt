@@ -1,0 +1,22 @@
+
+<html>
+<head>
+<title> This is the list of vegetables </title>
+</head>
+
+    <body>
+	
+	<p> This is the paragraph! </p>
+	
+	   <ul>
+	   
+	   <li>Brinjal</li>
+	   <li>Carriot/Chilli</li>
+	   <li>Garlic/Garlic</li>
+	   <li>Radish</li>	   
+	   
+	   </ul>
+	   
+	   </body>
+	   
+	   </html>
